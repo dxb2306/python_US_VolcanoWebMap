@@ -1,3 +1,3 @@
-![Screen Shot 2021-05-13 at 00 04 35](https://user-images.githubusercontent.com/83186423/118079976-ceb2af00-b37e-11eb-97b5-b849e8c001da.png)
-# python_US_VolcanoWebMap
-an interactive web map of volcano locations throughout the USA
+![Screen Shot 2021-05-13 at 00 05 42](https://user-images.githubusercontent.com/83186423/118080070-06b9f200-b37f-11eb-8cba-66cf90a3870d.png)
+
+Volcano and Population Web Map with Pandas and Folium
